@@ -2,6 +2,8 @@
 
 > Nuxt.js project
 
+https://medium.com/@rap2h/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372
+
 ## Build Setup
 
 ``` bash
